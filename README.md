@@ -1,5 +1,8 @@
 # Scheduly
 
+## check it out in this video
+https://youtu.be/teoLa_fyshI
+
 Scheduly is a CRUD flutter mobile app in which you can arrange your schedules reflecting your day to day activities.
 
 ## Scheduly is not your normal to do list app
